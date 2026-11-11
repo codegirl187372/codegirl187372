@@ -1,5 +1,12 @@
 # 💫 About Me:
-AI @ ML intern<br>Learn LLM's<br>Currently Focus on Backend Development <br>B.tech 2nd year student <br>CGPA : 8.7<br>
+
+- Hey I am RIYA YADAV
+- AI @ ML intern
+- Learn LLM's
+- Currently Focus on Backend Development
+- B.tech 2nd year student
+- Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology (SPIT)
+- CGPA : 8.7
 
 
 ## 🌐 Socials:
